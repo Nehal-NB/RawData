@@ -1,0 +1,153 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Nehal Technowave\\Liveprojects\\RawData\\TaskManagementSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B941D57F-D026-4744-AE99-4B0D8DFA1B85}|TaskManagementSystem\\TaskManagementSystem.csproj|d:\\nehal technowave\\liveprojects\\rawdata\\taskmanagementsystem\\taskmanagementsystem\\models\\general\\taskitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B941D57F-D026-4744-AE99-4B0D8DFA1B85}|TaskManagementSystem\\TaskManagementSystem.csproj|solutionrelative:taskmanagementsystem\\models\\general\\taskitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B941D57F-D026-4744-AE99-4B0D8DFA1B85}|TaskManagementSystem\\TaskManagementSystem.csproj|d:\\nehal technowave\\liveprojects\\rawdata\\taskmanagementsystem\\taskmanagementsystem\\controllers\\taskmastercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B941D57F-D026-4744-AE99-4B0D8DFA1B85}|TaskManagementSystem\\TaskManagementSystem.csproj|solutionrelative:taskmanagementsystem\\controllers\\taskmastercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B941D57F-D026-4744-AE99-4B0D8DFA1B85}|TaskManagementSystem\\TaskManagementSystem.csproj|d:\\nehal technowave\\liveprojects\\rawdata\\taskmanagementsystem\\taskmanagementsystem\\repository\\itaskmasterrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B941D57F-D026-4744-AE99-4B0D8DFA1B85}|TaskManagementSystem\\TaskManagementSystem.csproj|solutionrelative:taskmanagementsystem\\repository\\itaskmasterrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B941D57F-D026-4744-AE99-4B0D8DFA1B85}|TaskManagementSystem\\TaskManagementSystem.csproj|d:\\nehal technowave\\liveprojects\\rawdata\\taskmanagementsystem\\taskmanagementsystem\\repository\\taskmasterrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B941D57F-D026-4744-AE99-4B0D8DFA1B85}|TaskManagementSystem\\TaskManagementSystem.csproj|solutionrelative:taskmanagementsystem\\repository\\taskmasterrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B941D57F-D026-4744-AE99-4B0D8DFA1B85}|TaskManagementSystem\\TaskManagementSystem.csproj|d:\\nehal technowave\\liveprojects\\rawdata\\taskmanagementsystem\\taskmanagementsystem\\helpers\\datatypes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B941D57F-D026-4744-AE99-4B0D8DFA1B85}|TaskManagementSystem\\TaskManagementSystem.csproj|solutionrelative:taskmanagementsystem\\helpers\\datatypes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B941D57F-D026-4744-AE99-4B0D8DFA1B85}|TaskManagementSystem\\TaskManagementSystem.csproj|d:\\nehal technowave\\liveprojects\\rawdata\\taskmanagementsystem\\taskmanagementsystem\\models\\general\\generaloperations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B941D57F-D026-4744-AE99-4B0D8DFA1B85}|TaskManagementSystem\\TaskManagementSystem.csproj|solutionrelative:taskmanagementsystem\\models\\general\\generaloperations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B941D57F-D026-4744-AE99-4B0D8DFA1B85}|TaskManagementSystem\\TaskManagementSystem.csproj|d:\\nehal technowave\\liveprojects\\rawdata\\taskmanagementsystem\\taskmanagementsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B941D57F-D026-4744-AE99-4B0D8DFA1B85}|TaskManagementSystem\\TaskManagementSystem.csproj|solutionrelative:taskmanagementsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B941D57F-D026-4744-AE99-4B0D8DFA1B85}|TaskManagementSystem\\TaskManagementSystem.csproj|d:\\nehal technowave\\liveprojects\\rawdata\\taskmanagementsystem\\taskmanagementsystem\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B941D57F-D026-4744-AE99-4B0D8DFA1B85}|TaskManagementSystem\\TaskManagementSystem.csproj|solutionrelative:taskmanagementsystem\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TaskMasterRepository.cs",
+              "DocumentMoniker": "D:\\Nehal Technowave\\Liveprojects\\RawData\\TaskManagementSystem\\TaskManagementSystem\\Repository\\TaskMasterRepository.cs",
+              "RelativeDocumentMoniker": "TaskManagementSystem\\Repository\\TaskMasterRepository.cs",
+              "ToolTip": "D:\\Nehal Technowave\\Liveprojects\\RawData\\TaskManagementSystem\\TaskManagementSystem\\Repository\\TaskMasterRepository.cs",
+              "RelativeToolTip": "TaskManagementSystem\\Repository\\TaskMasterRepository.cs",
+              "ViewState": "AgIAALAAAAAAAAAAAAAUwPMAAABpAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T10:39:40.276Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TaskMasterController.cs",
+              "DocumentMoniker": "D:\\Nehal Technowave\\Liveprojects\\RawData\\TaskManagementSystem\\TaskManagementSystem\\Controllers\\TaskMasterController.cs",
+              "RelativeDocumentMoniker": "TaskManagementSystem\\Controllers\\TaskMasterController.cs",
+              "ToolTip": "D:\\Nehal Technowave\\Liveprojects\\RawData\\TaskManagementSystem\\TaskManagementSystem\\Controllers\\TaskMasterController.cs",
+              "RelativeToolTip": "TaskManagementSystem\\Controllers\\TaskMasterController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD8AAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T11:01:35.288Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DataTypes.cs",
+              "DocumentMoniker": "D:\\Nehal Technowave\\Liveprojects\\RawData\\TaskManagementSystem\\TaskManagementSystem\\Helpers\\DataTypes.cs",
+              "RelativeDocumentMoniker": "TaskManagementSystem\\Helpers\\DataTypes.cs",
+              "ToolTip": "D:\\Nehal Technowave\\Liveprojects\\RawData\\TaskManagementSystem\\TaskManagementSystem\\Helpers\\DataTypes.cs",
+              "RelativeToolTip": "TaskManagementSystem\\Helpers\\DataTypes.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAuwA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T10:57:03.059Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GeneralOperations.cs",
+              "DocumentMoniker": "D:\\Nehal Technowave\\Liveprojects\\RawData\\TaskManagementSystem\\TaskManagementSystem\\Models\\General\\GeneralOperations.cs",
+              "RelativeDocumentMoniker": "TaskManagementSystem\\Models\\General\\GeneralOperations.cs",
+              "ToolTip": "D:\\Nehal Technowave\\Liveprojects\\RawData\\TaskManagementSystem\\TaskManagementSystem\\Models\\General\\GeneralOperations.cs",
+              "RelativeToolTip": "TaskManagementSystem\\Models\\General\\GeneralOperations.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T10:42:06.537Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ITaskMasterRepository.cs",
+              "DocumentMoniker": "D:\\Nehal Technowave\\Liveprojects\\RawData\\TaskManagementSystem\\TaskManagementSystem\\Repository\\ITaskMasterRepository.cs",
+              "RelativeDocumentMoniker": "TaskManagementSystem\\Repository\\ITaskMasterRepository.cs",
+              "ToolTip": "D:\\Nehal Technowave\\Liveprojects\\RawData\\TaskManagementSystem\\TaskManagementSystem\\Repository\\ITaskMasterRepository.cs",
+              "RelativeToolTip": "TaskManagementSystem\\Repository\\ITaskMasterRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T12:23:35.535Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TaskItem.cs",
+              "DocumentMoniker": "D:\\Nehal Technowave\\Liveprojects\\RawData\\TaskManagementSystem\\TaskManagementSystem\\Models\\General\\TaskItem.cs",
+              "RelativeDocumentMoniker": "TaskManagementSystem\\Models\\General\\TaskItem.cs",
+              "ToolTip": "D:\\Nehal Technowave\\Liveprojects\\RawData\\TaskManagementSystem\\TaskManagementSystem\\Models\\General\\TaskItem.cs",
+              "RelativeToolTip": "TaskManagementSystem\\Models\\General\\TaskItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T09:27:33.333Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Nehal Technowave\\Liveprojects\\RawData\\TaskManagementSystem\\TaskManagementSystem\\appsettings.json",
+              "RelativeDocumentMoniker": "TaskManagementSystem\\appsettings.json",
+              "ToolTip": "D:\\Nehal Technowave\\Liveprojects\\RawData\\TaskManagementSystem\\TaskManagementSystem\\appsettings.json",
+              "RelativeToolTip": "TaskManagementSystem\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-04T09:24:55.496Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Nehal Technowave\\Liveprojects\\RawData\\TaskManagementSystem\\TaskManagementSystem\\Program.cs",
+              "RelativeDocumentMoniker": "TaskManagementSystem\\Program.cs",
+              "ToolTip": "D:\\Nehal Technowave\\Liveprojects\\RawData\\TaskManagementSystem\\TaskManagementSystem\\Program.cs",
+              "RelativeToolTip": "TaskManagementSystem\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T12:14:31.59Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
